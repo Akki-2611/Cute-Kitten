@@ -10,8 +10,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 
 
-solidity
-// SPDX-License-Identifier: MIT
+
+'
 pragma solidity ^0.8.18;
 contract Cute_Kitty_Token {
     // public variables here
@@ -33,6 +33,7 @@ contract Cute_Kitty_Token {
             }
         }
 }
+'
 
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile HelloWorld.sol" button.
