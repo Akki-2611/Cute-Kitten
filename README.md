@@ -3,7 +3,7 @@ This contract is written in Solidity, a programming language specifically design
 # Description
 It is a basic implementation of an ERC-20-like token on the Ethereum blockchain using Solidity. This smart contract allows for the minting and burning of tokens, and it keeps track of the total supply and individual balances. This sample smart contract demonstrates the basic functionalities of creating and managing a token on the blockchain. With these functions, we can mint new Kitty coins, distribute them to users, and even allow users to burn their Kitties if they choose.
 ## Getting Started
-##Executing program
+## Executing program
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the following code into the file:
 
 pragma solidity ^0.8.18;
